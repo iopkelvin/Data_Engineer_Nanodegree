@@ -6,6 +6,17 @@ from sql_queries import *
 
 
 def process_song_file(cur, filepath):
+    """
+    Description: This functions reads the JSON song files from the path.
+    It then selects some columns, and adds these columns into the newly created tables
+
+    Arguments:
+        cur: cursor object
+        filepath: song data file path
+
+    Returns:
+        None
+    """
     # open song file
     df = pd.read_json(filepath, lines=True)
 
@@ -22,6 +33,17 @@ def process_song_file(cur, filepath):
 
 
 def process_log_file(cur, filepath):
+    """
+    Description: This function can be used to read the file in the filepath (data/log_data)
+    to get the user and time info and used to populate the users and time dim tables.
+
+    Arguments:
+        cur: cursor object.
+        filepath: log data file path.
+
+    Returns:
+        None
+    """
     # open log file
     df = pd.read_json(filepath, lines=True)
 
@@ -68,6 +90,19 @@ def process_log_file(cur, filepath):
 
 
 def process_data(cur, conn, filepath, func):
+    """
+    Description: This function reads the log or song files from their paths. It processes them and appends all files into a list.
+    It then iterates through the list, and applies the process_log_file or process_song_file to add the files into the new tables.
+
+    Arguments:
+        cur: cursor object
+        conn: database connection
+        filepath: song data file path
+        func: either log or song function
+
+    Returns:
+        Files processed and added to the created tables (songs/log)
+    """
     # get all files matching extension from directory
     all_files = []
     for root, dirs, files in os.walk(filepath):
@@ -88,6 +123,9 @@ def process_data(cur, conn, filepath, func):
 
 
 def main():
+    """
+    Description: This function connects to the database sparkifydb, it connects a cursor, and then processes the data.
+    """
     conn = psycopg2.connect("host=127.0.0.1 dbname=sparkifydb user=student password=student")
     cur = conn.cursor()
 

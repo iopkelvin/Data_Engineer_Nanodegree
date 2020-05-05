@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ab9a8c2-d2fe-40f1-93c3-020c80714592" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Data Modeling/Project Postgres/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data Modeling/Project Postgres/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Modeling/Project Postgres/etl.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data Modeling/Project Postgres/etl.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Modeling/Project Postgres/etl.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Modeling/Project Postgres/etl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Modeling/Project Postgres/sql_queries.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Modeling/Project Postgres/sql_queries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture Notes/NoSQL Data Models.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture Notes/NoSQL Data Models.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture Notes/Relational Data Models.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture Notes/Relational Data Models.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture Notes/~$SQL Data Models.docx" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +65,22 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Data Modeling/Project Postgres/sql_queries.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="61" column="62" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>func</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,9 +92,9 @@
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/6357c916-20ae-4865-a812-5e43a805248d/console.sql" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/ee244184-3021-4f7a-9eac-bd43d9e9b1b8/console.sql" />
         <option value="ee244184-3021-4f7a-9eac-bd43d9e9b1b8/role/student" />
-        <option value="$PROJECT_DIR$/Data Modeling/Project Postgres/sql_queries.py" />
-        <option value="$PROJECT_DIR$/Data Modeling/Project Postgres/etl.py" />
         <option value="$PROJECT_DIR$/Data Modeling/Project Postgres/README.md" />
+        <option value="$PROJECT_DIR$/Data Modeling/Project Postgres/etl.py" />
+        <option value="$PROJECT_DIR$/Data Modeling/Project Postgres/sql_queries.py" />
       </list>
     </option>
   </component>
@@ -104,6 +123,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,7 +146,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -162,12 +181,13 @@
       <updated>1588570166081</updated>
       <workItem from="1588570170018" duration="14226000" />
       <workItem from="1588620637713" duration="1251000" />
-      <workItem from="1588622194219" duration="8963000" />
+      <workItem from="1588622194219" duration="9466000" />
+      <workItem from="1588652031762" duration="1293000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24440000" />
+    <option name="totallyTimeSpent" value="26236000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -181,11 +201,11 @@
   <component name="ToolWindowManager">
     <frame x="720" y="0" width="720" height="900" extended-state="0" />
     <layout>
-      <window_info id="DB Browser" order="0" weight="0.3004292" />
+      <window_info id="DB Browser" order="0" weight="0.29941002" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="2" weight="0.33333334" />
       <window_info id="Structure" order="3" sideWeight="0.50190115" side_tool="true" weight="0.23202614" />
-      <window_info id="Database" order="4" sideWeight="0.49809885" weight="0.16738197" />
+      <window_info id="Database" order="4" sideWeight="0.49809885" weight="0.16961652" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -222,7 +242,7 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d4255b36-edb8-4526-aed9-b702dc18949a/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../.conda/envs/Data_Engineer_Nanodegree/lib/python3.7/site-packages/psycopg2/__init__.py">
+    <entry file="file://$USER_HOME$/.conda/envs/Data_Engineer_Nanodegree/lib/python3.7/site-packages/psycopg2/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="860">
           <caret line="125" selection-start-line="125" selection-end-line="125" />
@@ -286,19 +306,20 @@
     <entry file="file://$PROJECT_DIR$/Data Modeling/Project Postgres/etl.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Modeling/Project Postgres/sql_queries.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1456">
-          <caret line="91" selection-end-line="91" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Data Modeling/Project Postgres/etl.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-599">
+        <state relative-caret-position="373">
+          <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Modeling/Project Postgres/sql_queries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="61" column="62" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="62" />
         </state>
       </provider>
     </entry>
