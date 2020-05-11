@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ab9a8c2-d2fe-40f1-93c3-020c80714592" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/create_tables.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/create_tables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/sql_queries.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/sql_queries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cloud Data Warehouses/Implementing Data Warehouses in AWS_Jupyter_notebooks/L3 Exercise 2 - IaC.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Cloud Data Warehouses/Implementing Data Warehouses in AWS_Jupyter_notebooks/L3 Exercise 2 - IaC.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cloud Data Warehouses/Lecture Notes/~$plementing Data Warehuses in AWS.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Modeling/PostgreSQL_Relational_DB_Jupyter_notebook/Lesson 2 Exercise 3 Creating Fact and Dimension Tables with Star Schema.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Data Modeling/PostgreSQL_Relational_DB_Jupyter_notebook/Lesson 2 Exercise 3 Creating Fact and Dimension Tables with Star Schema.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,36 +29,140 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+        <item name="roles" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Data Modeling/Project PostgreSQL/sql_queries.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="37" column="34" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data Modeling/Project PostgreSQL/etl.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.3416149">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/create_tables.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="512">
+                  <caret line="32" selection-start-line="32" selection-end-line="32" />
+                  <folding>
+                    <element signature="e#0#19#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/etl.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="496">
+                  <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+                  <folding>
+                    <element signature="e#0#19#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/dwh.cfg">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="128">
+                  <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor relative-caret-position="845">
+                    <caret line="93" column="146" selection-start-line="93" selection-start-column="146" selection-end-line="93" selection-end-column="146" />
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/sql_queries.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2240">
+                  <caret line="140" column="17" lean-forward="true" selection-start-line="140" selection-start-column="17" selection-end-line="140" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/create_aim_cluster.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-1440">
+                  <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+                  <folding>
+                    <element signature="e#0#19#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/delete_aim_cluster.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="656">
+                  <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+                  <folding>
+                    <element signature="e#0#19#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../.conda/envs/Data_Engineer_Nanodegree/lib/python3.7/site-packages/psycopg2/__init__.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="742">
+                  <caret line="122" selection-start-line="122" selection-end-line="122" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>func</find>
+      <find>hos</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -66,29 +178,20 @@
         <option value="$PROJECT_DIR$/Data Modeling/Project Postgres/README.md" />
         <option value="$PROJECT_DIR$/Data Modeling/Project Postgres/etl.py" />
         <option value="$PROJECT_DIR$/Data Modeling/Project Postgres/sql_queries.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/Data_Engineer_Nanodegree.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/dbnavigator.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
-        <option value="$PROJECT_DIR$/.idea/dataSources.xml" />
-        <option value="$PROJECT_DIR$/.idea/dataSources.xml" />
-        <option value="$PROJECT_DIR$/.idea/dataSources.xml" />
+        <option value="$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/create_aim_cluster.py" />
+        <option value="$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/delete_aim_cluster.py" />
+        <option value="$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/dwh.cfg" />
+        <option value="$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/README.md" />
+        <option value="$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/create_tables.py" />
+        <option value="$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/sql_queries.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2560" />
-    <option name="y" value="-58" />
-    <option name="width" value="2560" />
-    <option name="height" value="1440" />
+    <option name="x" value="1020" />
+    <option name="y" value="-1417" />
+    <option name="width" value="1280" />
+    <option name="height" value="1417" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -106,13 +209,13 @@
             <path>
               <item name="Data_Engineer_Nanodegree" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data_Engineer_Nanodegree" type="462c0819:PsiDirectoryNode" />
-              <item name="Data Modeling" type="462c0819:PsiDirectoryNode" />
+              <item name="Cloud Data Warehouses" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Data_Engineer_Nanodegree" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data_Engineer_Nanodegree" type="462c0819:PsiDirectoryNode" />
-              <item name="Data Modeling" type="462c0819:PsiDirectoryNode" />
-              <item name="Project PostgreSQL" type="462c0819:PsiDirectoryNode" />
+              <item name="Cloud Data Warehouses" type="462c0819:PsiDirectoryNode" />
+              <item name="Data Warehouse Project" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -121,7 +224,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DatabaseDriversLRU" value="postgresql&#10;redshift" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
@@ -133,7 +236,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -163,11 +266,14 @@
       <workItem from="1588652031762" duration="1293000" />
       <workItem from="1588745070187" duration="559000" />
       <workItem from="1588803001301" duration="521000" />
+      <workItem from="1589093380220" duration="599000" />
+      <workItem from="1589094013692" duration="2546000" />
+      <workItem from="1589138505465" duration="12910000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27316000" />
+    <option name="totallyTimeSpent" value="43371000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -179,14 +285,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2560" y="-58" width="2560" height="1440" extended-state="0" />
-    <editor active="true" />
+    <frame x="-260" y="-1417" width="2560" height="1417" extended-state="6" />
     <layout>
-      <window_info id="DB Browser" order="0" weight="0.29865125" />
+      <window_info id="DB Browser" order="0" weight="0.29825258" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.15806195" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.08498809" />
       <window_info id="Structure" order="3" sideWeight="0.50190115" side_tool="true" weight="0.23202614" />
-      <window_info id="Database" order="4" sideWeight="0.49809885" weight="0.16955684" />
+      <window_info active="true" id="Database" order="4" sideWeight="0.49809885" visible="true" weight="0.102859415" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -199,7 +304,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3299363" />
       <window_info anchor="bottom" id="DB Execution Console" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4985694" visible="true" weight="0.14566037" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4985694" visible="true" weight="0.23886329" />
       <window_info anchor="bottom" id="Jupyter" order="13" weight="0.1312102" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50143063" side_tool="true" weight="0.24585988" />
       <window_info anchor="bottom" id="Python Console" order="15" weight="0.3299363" />
@@ -223,13 +328,6 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d4255b36-edb8-4526-aed9-b702dc18949a/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/.conda/envs/Data_Engineer_Nanodegree/lib/python3.7/site-packages/psycopg2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="860">
-          <caret line="125" selection-start-line="125" selection-end-line="125" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6357c916-20ae-4865-a812-5e43a805248d/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -238,13 +336,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Data Modeling/Project Postgres/test.ipynb" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ee244184-3021-4f7a-9eac-bd43d9e9b1b8/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="das://ee244184-3021-4f7a-9eac-bd43d9e9b1b8/role/kelvin">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
@@ -265,6 +356,13 @@
     <entry file="file://$PROJECT_DIR$/Data Modeling/Project Postgres/etl.ipynb" />
     <entry file="file://$PROJECT_DIR$/Data Modeling/Project Postgres/etl.py" />
     <entry file="file://$PROJECT_DIR$/Data Modeling/Project Postgres/sql_queries.py" />
+    <entry file="file://$PROJECT_DIR$/Data Modeling/Project PostgreSQL/sql_queries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="37" column="34" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Data Modeling/Project PostgreSQL/etl.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -274,10 +372,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Modeling/Project PostgreSQL/sql_queries.py">
+    <entry file="file://$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/log-data.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ee244184-3021-4f7a-9eac-bd43d9e9b1b8/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="37" column="34" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="36" />
+        <state relative-caret-position="32">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5851a6ec-28c2-4e43-9510-ac9aeccfa26e/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.conda/envs/Data_Engineer_Nanodegree/lib/python3.7/site-packages/psycopg2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="742">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/dwh.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="845">
+            <caret line="93" column="146" selection-start-line="93" selection-start-column="146" selection-end-line="93" selection-end-column="146" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/create_tables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/etl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/delete_aim_cluster.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/create_aim_cluster.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1440">
+          <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/sql_queries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2240">
+          <caret line="140" column="17" lean-forward="true" selection-start-line="140" selection-start-column="17" selection-end-line="140" selection-end-column="17" />
         </state>
       </provider>
     </entry>

@@ -7,5 +7,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://127.0.0.1:5432/postgres</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="@server.redshift.amazonaws.com" uuid="5851a6ec-28c2-4e43-9510-ac9aeccfa26e">
+      <driver-ref>redshift</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.amazon.redshift.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:redshift://server.redshift.amazonaws.com:5439</jdbc-url>
+    </data-source>
   </component>
 </project>

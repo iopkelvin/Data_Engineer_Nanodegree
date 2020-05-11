@@ -9,5 +9,9 @@
       <secret-storage>master_key</secret-storage>
       <introspection-schemas>@:@|studentdb:</introspection-schemas>
     </data-source>
+    <data-source name="@server.redshift.amazonaws.com" uuid="5851a6ec-28c2-4e43-9510-ac9aeccfa26e">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="REDSHIFT" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+    </data-source>
   </component>
 </project>
