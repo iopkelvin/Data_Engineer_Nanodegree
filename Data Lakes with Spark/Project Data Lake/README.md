@@ -46,11 +46,18 @@ start_time, hour, day, week, month, year, weekday
  ---
  
 The task at hand is to:
- 1. build an ETL pipeline which extracts the data from S3.
+ 1. build an ETL pipeline which extracts the data from S3. (Transform into a Star Schema optimized for queries on song play analysis.)
  2. Processes the data using Spark.
  3. Loads the data back into S3 as a set of dimensional tables.
  
  ----
+ 
+ ### Project Files
+ 
+ * etl.py - Reads data from S3, processes that data using Spark, and writes them back to S3.
+ * dl.cfg - Contains AWS credentials
+ 
+ ---
  
  
  
