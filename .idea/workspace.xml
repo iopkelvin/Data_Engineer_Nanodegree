@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ab9a8c2-d2fe-40f1-93c3-020c80714592" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Lakes with Spark/Project Data Lake/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data Lakes with Spark/Project Data Lake/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Lakes with Spark/Project Data Lake/etl.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Lakes with Spark/Project Data Lake/etl.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,37 +47,17 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6583435">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Data Lakes with Spark/Project Data Lake/etl.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="567">
-                  <caret line="153" column="19" selection-start-line="153" selection-start-column="19" selection-end-line="153" selection-end-column="19" />
-                  <folding>
-                    <element signature="e#0#19#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Data Lakes with Spark/Project Data Lake/dl.cfg">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="16">
-                  <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="64" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Data Lakes with Spark/create_EMR.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -113,23 +92,23 @@
         <option value="$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/create_tables.py" />
         <option value="$PROJECT_DIR$/Cloud Data Warehouses/Data Warehouse Project/sql_queries.py" />
         <option value="$PROJECT_DIR$/Data Lakes with Spark/Project Data Lake/README.md" />
-        <option value="$PROJECT_DIR$/Data Lakes with Spark/Project Data Lake/etl.py" />
         <option value="$PROJECT_DIR$/Data Lakes with Spark/Project Data Lake/dl.cfg" />
+        <option value="$PROJECT_DIR$/Data Lakes with Spark/Project Data Lake/etl.py" />
+        <option value="$PROJECT_DIR$/Data Lakes with Spark/create_EMR.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1920" />
-    <option name="y" value="-157" />
-    <option name="width" value="960" />
-    <option name="height" value="1057" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="720" />
+    <option name="y" value="23" />
+    <option name="width" value="720" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,6 +149,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,12 +207,13 @@
       <workItem from="1589161288911" duration="273000" />
       <workItem from="1589197742232" duration="36000" />
       <workItem from="1589354268422" duration="3103000" />
-      <workItem from="1589477778891" duration="3602000" />
+      <workItem from="1589477778891" duration="3856000" />
+      <workItem from="1589499808855" duration="1062000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50678000" />
+    <option name="totallyTimeSpent" value="51994000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -244,12 +225,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="-157" width="1920" height="1057" extended-state="6" />
+    <frame x="720" y="23" width="720" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="DB Browser" order="0" weight="0.29818955" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.1256656" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.22418879" />
       <window_info id="Structure" order="3" sideWeight="0.50190115" side_tool="true" weight="0.23202614" />
       <window_info id="Database" order="4" sideWeight="0.49809885" weight="0.21458998" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -264,7 +245,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3299363" />
       <window_info anchor="bottom" id="DB Execution Console" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4985694" visible="true" weight="0.110403396" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4985694" visible="true" weight="0.2195122" />
       <window_info anchor="bottom" id="Jupyter" order="13" weight="0.1312102" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50143063" side_tool="true" weight="0.24585988" />
       <window_info anchor="bottom" id="Python Console" order="15" weight="0.3299363" />
@@ -436,10 +417,17 @@
     <entry file="file://$PROJECT_DIR$/Data Lakes with Spark/Project Data Lake/etl.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
-          <caret line="153" column="19" selection-start-line="153" selection-start-column="19" selection-end-line="153" selection-end-column="19" />
+          <caret line="153" column="53" selection-start-line="153" selection-start-column="53" selection-end-line="153" selection-end-column="53" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data Lakes with Spark/create_EMR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
